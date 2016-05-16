@@ -1,0 +1,5 @@
+mongod --dbpath /Users/avenuecode/Work/mongo-data/
+
+/Users/avenuecode/Work/training/training-passportjs
+nodemon index.js
+
